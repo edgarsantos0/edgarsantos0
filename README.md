@@ -2,6 +2,17 @@
 
 -  I’m a student of Informatics Engineering at University of Trás-os-Montes and Alto Douro
 
+<div style="display:flex; flex-direction:row;">
+ <div> 
+ <img src="https://media1.giphy.com/media/3se2U9ZAJr7DW/200.gif"> 
+ </div>
+ <div>
+
+- 📌 Portugal
+- ✉️ [eddysantos1643@gmail.com](mailto:eddysantos1643@gmail.com)
+
+ </div>
+
 <div align="center">
   <a href="https://github.com/edgarsantos0">
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=edgarsantos0&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
