@@ -1,11 +1,5 @@
 ## Hi, I'm Edgar!
 
-<div style="display:flex; flex-direction:row;">
-<div>
-<img src="https://media1.giphy.com/media/3se2U9ZAJr7DW/200.gif">
-</div>
-<div>
- 
 -  I’m a student of Informatics Engineering at University of Trás-os-Montes and Alto Douro  
 - 📌 Portugal
 - ✉️ [eddysantos1643@gmail.com](mailto:eddysantos1643@gmail.com)
