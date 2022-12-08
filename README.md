@@ -12,7 +12,7 @@
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsantos0&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsantos0&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsantos0&theme=material-palenight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ## Languages
