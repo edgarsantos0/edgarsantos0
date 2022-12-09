@@ -13,9 +13,13 @@
 </div>-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsantos0&theme=material-palenight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=edgarsantos0&langs_count=10&layout=compact&theme=material-palenight&showicons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+</div>
+
 ## Languages
 
 <div align="left">
